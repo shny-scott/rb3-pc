@@ -7,9 +7,9 @@ tags: [troubleshooting, english]
 summary: "How to deal with the visual glitches in Rock Band 3."
 ---
 
-## Guitar Patch
+## Teleport Patch
 
-You can eliminate 99% of guitar teleportation bugs by installing a work-in-progress patch. First, download the [[`rb3_ps3_guitar_glitch_fix.7z` archive]](https://github.com/hmxmilohax/rock-band-3-deluxe/raw/main/dependencies/ps3_patcher/rb3_ps3_guitar_glitch_fix.7z).
+You can eliminate guitar, bass, hair, hat, mask, and microphone teleportation bugs by installing a work-in-progress patch. First, download the [[`rb3_ps3_guitar_glitch_fix.7z` archive]](https://github.com/hmxmilohax/rock-band-3-deluxe/raw/develop/dependencies/ps3_patcher/rb3_ps3_guitar_glitch_fix.7z).
 
 ![The rb3_ps3_guitar_glitch_fix.7z archive in a browser's download tray.](https://rb3pc.milohax.org/images/trbl/teleprob/patchfldr.png "rb3_ps3_guitar_glitch_fix.7z")
 
@@ -35,7 +35,7 @@ That's it!
 
 # Problematic Items
 
-Below are equipable items which are documented to have issues with visual glitches. Avoid these items if you don't want to have visual teleporting glitches.
+Below are equipable items which are documented to have issues with visual glitches in the vanilla game. Avoid these items or install the above patch if you don't want to have visual teleporting glitches.
 
 ## Microphones
 
